@@ -74,4 +74,5 @@ Repositório com exercícios e aplicações desenvolvidas durante estudos de Pyt
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/marcus-vinicius-simões-bordignon-970484261/
+
 Email: marcusbordignon@msn.com
