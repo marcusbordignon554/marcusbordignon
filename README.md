@@ -53,35 +53,25 @@ Tenho experiência acadêmica com desenvolvimento de sistemas, levantamento de r
 ### 🏋️ DailyFit
 Sistema de gestão para academias desenvolvido como projeto acadêmico, aplicando Engenharia de Software, UML e Inteligência Artificial Generativa.
 
-🔗 [Ver projeto](link-do-repositorio)
+🔗 [Ver projeto](https://github.com/marcusbordignon554/dailyfit)
 
 ---
 
 ### 🚗 Falls-Car
 Sistema de gerenciamento de aluguel de veículos desenvolvido com foco em análise de requisitos, regras de negócio e modelagem UML.
 
-🔗 [Ver projeto](link-do-repositorio)
+🔗 [Ver projeto](https://github.com/marcusbordignon554/falls-car)
 
 ---
 
 ### 🐍 Python Estudos
 Repositório com exercícios e aplicações desenvolvidas durante estudos de Python, incluindo manipulação de dados e computação científica.
 
-🔗 [Ver projeto](link-do-repositorio)
-
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento de software
-- Estruturas de dados
-- Banco de dados
-- Engenharia de Software
-- Análise e visualização de dados
+🔗 [Ver projeto](https://github.com/marcusbordignon554/python-estudos)
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: seu-link-aqui
-Email: seu-email-aqui
+LinkedIn: https://www.linkedin.com/in/marcus-vinicius-simões-bordignon-970484261/
+Email: marcusbordignon@msn.com
