@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-# 👋 Olá, eu sou Marcus Vinicius
+# 👋 Olá, eu sou Marcus Vinicius Simões Bordignon
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Interessado em Desenvolvimento de Software, Engenharia de Software e Análise de Dados
